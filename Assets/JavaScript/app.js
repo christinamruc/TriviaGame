@@ -1,19 +1,15 @@
-(function() {
+(function() {
   var questions = [{
     question: "How many species of Penguin are?",
     choices: [5, 8, 12, 17, 20],
     correctAnswer: 3
-  //}, {
-    //question: "All species live soley in the Southern Hemisphere.",
-    //choices: [True, False],
-    //correctAnswer: 0
   }, {
     question: "Emperor Penguins are the tallest, standing at ____ feet?",
     choices: [2, 3, 4, 5],
     correctAnswer: 2
   }, {
     question: "The Little Blue Penguin is the smallest Penguin, at only ____ inches?",
-    choices: [8, 10, 12, 14, 16, 18],
+    choices: [8, 10, 12, 14, 16],
     correctAnswer: 4
   }, {
     question: "How fast can the fastest Penguins swim? (In MPH)",
